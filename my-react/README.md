@@ -1,4 +1,9 @@
-# React + Vite
+# TO-DO LIST
+
+This is a todo List template 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Also exclusively helped with mdn docs https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
